@@ -11,8 +11,8 @@ env/
 # Environment variables
 .env
 
-# Model files (VERY IMPORTANT ⚠️)
-*.pkl
+# # Model files (VERY IMPORTANT ⚠️)
+# *.pkl
 
 # Large data files (optional)
 *.csv
