@@ -14,8 +14,8 @@ env/
 # # Model files (VERY IMPORTANT ⚠️)
 # *.pkl
 
-# Large data files (optional)
-*.csv
+# # Large data files (optional)
+# *.csv
 
 # Logs
 *.log
